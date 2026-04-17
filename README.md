@@ -53,7 +53,7 @@ Follow these steps to get the project up and running locally.
 - Node.js (LTS)
 - MongoDB Account (or local instance)
 
----
+----
 
 ### 1. Backend Setup
 
