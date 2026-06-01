@@ -26,7 +26,7 @@ ParkMate is a modern, full-stack parking management solution designed to streaml
 - **User Management:** Oversee user activities and support.
 - **Comprehensive Dashboard:** Analytics and insights at a glance.
 
----
+----
 
 ## 🛠️ Tech Stack
 
