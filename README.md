@@ -42,7 +42,7 @@ ParkMate is a modern, full-stack parking management solution designed to streaml
 - **Email Service:** Flask-Mail (for OTPs and Notifications)
 - **Environment Management:** Python-Dotenv
 
-----
+-----
 
 ## 🚀 Getting Started
 
