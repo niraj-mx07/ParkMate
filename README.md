@@ -9,7 +9,7 @@
 
 ParkMate is a modern, full-stack parking management solution designed to streamline the experience of finding and booking parking slots. With a premium SaaS-inspired dashboard, real-time availability tracking, and a robust admin panel, ParkMate bridges the gap between parking providers and users.
 
-----
+-----
 
 ## ✨ Key Features
 
